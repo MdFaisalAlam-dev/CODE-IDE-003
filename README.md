@@ -16,4 +16,8 @@ Tech Stack ⬇️
 
 • 🔗Live Project: https://code-ide003.netlify.app/
 
+<img width="1916" height="999" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/f3e20df8-e161-494e-806d-9c06f501f051" />
+
+<img width="1920" height="1005" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/91181ab9-b5b0-48a4-bf83-15691827828e" />
+
 <img width="1920" height="988" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/d1179385-6bf3-4c4c-bd24-e30a3443b820" />
